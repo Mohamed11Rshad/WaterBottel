@@ -10,6 +10,7 @@ Welcome to the Water Bottle Tracker App! This Android app, built using Jetpack C
 
 ## Video
 - Watch the interactive animations in action:
+
 https://github.com/Mohamed11Rshad/WaterBottel/assets/126785911/33dd6c87-3fb1-4f46-92e5-cdd5362e526b
 
 
